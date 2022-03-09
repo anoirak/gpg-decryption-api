@@ -1,0 +1,10 @@
+Django==4.0.2
+djangorestframework==3.13.1
+python-gnupg==0.4.8
+django-cors-headers
+nose 
+pinocchio 
+django_nose
+gunicorn
+python-decouple
+
